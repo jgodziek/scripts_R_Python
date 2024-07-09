@@ -1,6 +1,9 @@
 # R SCRIPT
 
-
+# Pit-mound topography detection
+#Method described in the paper entitled
+#"Indicators of wind-driven forest disturbances – pit–mound topography, its automatic detection and significance"
+#author: Janusz Godziek
 
 
 
