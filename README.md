@@ -23,7 +23,7 @@ Skrypty w językach R i Python (z różnych projektów):
    - miesięczne wykresy danych meteorologicznych z automatycznych stacji meteorologicznych
    - automatyczne pobieranie danych meteorologicznych (telemetrycznych) z repozytorium IMGW-PIB
   
-2) Skrypty Python:
+2) Skrypty w Python:
    - interpolacja zanieczyszczeń dla Górnośląsko-Zagłębiowskiej Metropolii i powiatów ościennych
    - róża wiatrów dla danych telemetrycznych IMGW-PIB
 
