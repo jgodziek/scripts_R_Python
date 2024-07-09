@@ -3,6 +3,7 @@
 # Pit-mound topography detection
 #Method described in the paper entitled
 #"Indicators of wind-driven forest disturbances – pit–mound topography, its automatic detection and significance"
+# paper link: https://www.sciencedirect.com/science/article/abs/pii/S0341816222007433?via%3Dihub
 #author: Janusz Godziek
 
 
