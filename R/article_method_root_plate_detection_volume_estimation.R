@@ -3,6 +3,7 @@
 #Methods described in the paper entitled
 #"Root plates of uprooted trees – automatic detection and biotransport estimation 
 #using LiDAR data and field mapping"
+# paper link: https://www.researchgate.net/publication/381718736_Root_plates_of_uprooted_trees_-_Automatic_detection_and_biotransport_estimation_using_LiDAR_data_and_field_mapping
 #author: Janusz Godziek
 
 
